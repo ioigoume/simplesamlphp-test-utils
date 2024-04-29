@@ -7,11 +7,11 @@ Utilities to aid in testing SimpleSAMLphp modules
 
 Install as a dev dependency using composer
 
-    composer require --dev  cirrusidentity/simplesamlphp-test-utils:dev-master
+    composer require --dev  cirrusidentity/simplesamlphp-test-utils:v2.x-dev
     
 Update the dependency
 
-    composer update -dev  cirrusidentity/simplesamlphp-test-utils
+    composer update --dev  cirrusidentity/simplesamlphp-test-utils
     
 # Usage
 
